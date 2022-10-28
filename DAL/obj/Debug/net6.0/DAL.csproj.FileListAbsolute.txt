@@ -1,0 +1,30 @@
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\bin\Debug\net6.0\BLL.dll
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\bin\Debug\net6.0\BLL.pdb
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\ASUS VivoBook\OneDrive\Desktop\accountingBasic\accountingbasic\DAL\obj\Debug\net6.0\ref\DAL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\DAL.deps.json
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\DAL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\ref\DAL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\DAL.pdb
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\BLL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\bin\Debug\net6.0\BLL.pdb
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\ref\DAL.dll
+L:\Selise\github\seliseassessmenttest\accountingbasicapi\DAL\obj\Debug\net6.0\DAL.pdb
